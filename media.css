@@ -1,0 +1,192 @@
+
+#fetch{
+    margin-left: 15px;
+    width: 92%;
+   
+}
+
+#card-bor{
+    width: 88%;
+    height: 375px;
+    border-bottom: 1px solid gray;
+
+}
+.miss{
+    width: 85%;
+    margin-left: 20px;
+    text-align: center;
+}
+#onlineimage{
+    width:100%;
+    height: 150px;
+}
+.teext{
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+}
+.teext p{
+    display: none;
+}
+.text a{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#card{
+    height: 100%;
+    padding-bottom: 80px;
+}
+
+
+
+/* 3rd column */
+.inter{
+    width: 85%;
+    text-align: center;
+}
+.card-img{
+    width: 100%;
+    height: 200px;
+}
+#maincard{
+    width: 98%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+
+/* 4th column */
+
+#box2{
+    padding-left: 0px;
+}
+.india{
+    width: 85%;
+
+}
+#scroll-card{
+    width: 92%;
+}
+.card-img-top{
+    width: 100%;
+}
+
+/* 5th column */
+
+#extra{
+    display: none;
+}
+
+
+
+/* footer text */
+#footer{
+    display: flex;
+    flex-direction: column;
+}
+.footer-text{
+    width: 90%;
+    margin-left: 20px;
+    height: 100px;
+}
+.footer-text h1{
+    font-size: 3.5rem;
+    margin-bottom: 50px;
+}
+.footer-text h5{
+    font-size: 1.0rem;
+}
+#subs{
+    display: none;
+}
+.navbar{
+    width: 100%;
+}
+#box1aa{
+    width: 100%;
+}
+#heading {
+    margin-left: 30px;
+
+}
+#heading h1{
+    font-size: 3rem;
+
+}
+.para{
+    margin-left: 30px;
+}
+.news{
+
+    animation-name: news;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+@keyframes news {
+    0%{
+        margin-left: 0%;
+        color: #198754;
+    }
+   50%{
+        margin-left: 20%;
+        color: whitesmoke;
+        
+    }
+
+    100%{
+        margin-left: 0%;
+        color: #198754;
+    }
+}
+#box1aa{
+    width: 100%;
+}
+#box1{
+    width: 48%;
+}
+#Front{
+    height: 150%
+}
+
+#box2{
+    width: 46%;
+}
+#box2a{
+    width:100%;
+    margin-left: 0px;
+}
+#heading{
+    margin-top: 100%;
+    margin-bottom: 0px;
+}
+#heading h1{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+#headlines{
+    margin-bottom: 0px;
+    margin-top: 50px;
+    height: 15rem;
+
+}
+#motion{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+  
+}
+.num{
+    width: 30px;
+    height: 35px;
+}
+.head1{
+    font-size: 1rem;
+}
+#headline{
+    display: flex;
+    margin-bottom: 15px;
+    margin-left: -50px;
+
+}
